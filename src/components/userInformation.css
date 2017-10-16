@@ -1,0 +1,46 @@
+#content .haslogin {
+	position: relative;
+	width: 95%;
+	top: 10px;
+	height: 111px
+}
+
+#content .haslogin .headcon {
+	height: 81px;
+	width: 81px;
+	margin: 0 auto;
+	-webkit-border-radius: 40.5px;
+	-moz-border-radius: 40.5px;
+	border-radius: 40.5px;
+	-moz-background-clip: padding;
+	-webkit-background-clip: padding-box;
+	background-clip: padding-box;
+	overflow: hidden;
+	background-color: #f6f6f6
+}
+
+#content .haslogin .button {
+	position: absolute;
+	color: #00b38a;
+	font-size: 1.4rem;
+	right: 0
+}
+
+#content .haslogin .headpic {
+	width: 72px;
+	height: 72px;
+	margin: 4px 0 0 1px;
+	-webkit-border-radius: 36px;
+	-moz-border-radius: 36px;
+	border-radius: 36px;
+	-moz-background-clip: padding;
+	-webkit-background-clip: padding-box;
+	background-clip: padding-box
+}
+
+#content .haslogin .name {
+	font-size: 1.4rem;
+	color: #333;
+	height: 22px;
+	line-height: 22px
+}

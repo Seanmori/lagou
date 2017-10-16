@@ -1,0 +1,102 @@
+#header {
+	height: 45px;
+	line-height: 45px;
+	background-color: #00b38a;
+	color: #fff;
+	font-size: 1.8rem;
+	text-align: center;
+	position: relative
+}
+
+#header .left {
+	position: absolute;
+	left: 0;
+	top: 0;
+	height: 100%;
+	width: 40px
+}
+
+#header .left:active {
+	background-color: #f0f0f0
+}
+
+#header .left .corner {
+	width: 9px;
+	height: 20px;
+	margin: 13px auto 0 auto;
+	background: url(../images/icon2.png ) no-repeat -1.5px -20.5px;
+	background-size: 250px 250px;
+	display: inline-block
+}
+
+#content .tab {
+	border-bottom: 1px solid #e8e8e8;
+	font-size: 1.4rem
+}
+
+#content .tab:after {
+	content: ".";
+	display: block;
+	height: 0;
+	clear: both;
+	visibility: hidden
+}
+
+#content .tab .selected {
+	color: #00b38a;
+	background-color: #f5f5f5
+}
+
+#content .tab-item {
+	display: block;
+	float: left;
+	width: 33.33%;
+	height: 42.5px;
+	line-height: 42.5px;
+	text-align: center;
+	color: #555
+}
+
+#content .list {
+	padding: 15px;
+	color: #333
+}
+
+#content .list .list-more {
+	height: 50px;
+	line-height: 50px;
+	text-align: center;
+	font-size: 1.5rem;
+	background-color: #fafafa
+}
+
+#content .list .list-more:active {
+	background-color: #f0f0f0
+}
+
+#content .list .list-empty {
+	text-align: center;
+	font-size: 1.5rem;
+	margin-top: 30px;
+	color: #c2cfcc
+}
+
+#content .list .list-empty:after {
+	content: ".";
+	display: block;
+	height: 0;
+	clear: both;
+	visibility: hidden
+}
+
+#content .list .list-empty .icon,#content .list .list-empty .text {
+	display: inline-block;
+	vertical-align: middle
+}
+
+#content .list .list-empty .icon {
+	width: 20px;
+	height: 20px;
+	background: url(../images/icon.png ) no-repeat -70px -18.5px;
+	background-size: 250px 250px
+}

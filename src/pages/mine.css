@@ -1,0 +1,175 @@
+#content {
+	margin-bottom: 45px;
+}
+
+#content:after {
+	content: ".";
+	display: block;
+	height: 0;
+	clear: both;
+	visibility: hidden
+}
+
+#content .buttons {
+	margin-bottom: 10px
+}
+
+#content .buttons:after {
+	content: ".";
+	display: block;
+	height: 0;
+	clear: both;
+	visibility: hidden
+}
+
+#content .buttons .button {
+	display: block;
+	width: 46%;
+	height: 86px;
+	line-height: 86px;
+	background-color: #1fc8a1;
+	text-align: center;
+	color: #fff;
+	font-size: 1.6rem;
+	margin-top: 10px;
+	position: relative
+}
+
+#content .buttons .num {
+	display: inline-block;
+	width: 23px;
+	height: 23px;
+	line-height: 23px;
+	background-color: #7efffa;
+	text-align: center;
+	color: #22ac9a;
+	font-size: 1.3rem;
+	border-radius: 50%;
+	position: relative;
+	top: -2px
+}
+
+#content .buttons .invitation {
+	float: left;
+	margin-left: 10px;
+}
+
+#content .buttons .interview {
+	float: right;
+	margin-right: 10px;
+}
+
+#content .buttons .deliver {
+	float: left;
+	margin-left: 10px;
+}
+
+#content .buttons .collect {
+	float: right;
+	margin-right: 10px;
+}
+
+#content .logininfo {
+	margin: 10px 0
+}
+
+#content .center {
+	text-align: center;
+	width: 125px;
+	margin: 0 auto
+}
+
+#content .address {
+	width: 100%;
+	padding: 15px;
+	height: 68.5px;
+	box-sizing: border-box;
+	background-color: #f5f5f5;
+	position: relative
+}
+
+#content .address:after {
+	content: ".";
+	display: block;
+	height: 0;
+	clear: both;
+	visibility: hidden
+}
+
+#content .address a.edit {
+	display: block;
+	width: 23px;
+	height: 23px;
+	line-height: 23px;
+	background-color: #e4e4e4;
+	position: absolute;
+	right: 0;
+	bottom: 0
+}
+
+#content .address a.edit i {
+	display: block;
+	width: 10px;
+	height: 18px;
+	margin: 0 auto;
+	margin-top: 5px;
+	background: url(../images/icon2.png ) no-repeat -88px -3.9px;
+	background-size: 250px 250px
+}
+
+#content .address .icon {
+	display: block;
+	width: 14px;
+	height: 45px;
+	background: url(../images/icon2.png ) no-repeat -110px -46.5px;
+	background-size: 250px 250px;
+	float: left
+}
+
+#content .address .no-add {
+	float: left;
+	position: relative;
+	left: 5px
+}
+
+#content .address .no-add h2 {
+	color: #00b38a;
+	font-size: 1.5rem;
+	font-weight: normal
+}
+
+#content .address .no-add p {
+	padding-top: 7px;
+	color: #bbb;
+	font-size: 1.2rem
+}
+
+#content .address .add {
+	position: relative;
+	left: 5px
+}
+
+#content .address .add p {
+	color: #00b38a;
+	font-size: 1.4rem;
+	line-height: 22px;
+	word-break: break-all;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	display: -webkit-box;
+	-webkit-line-clamp: 2;
+	-webkit-box-orient: vertical
+}
+
+#content .logout {
+	display: block;
+	width: 95%;
+	height: 40px;
+	margin: 0 auto;
+	line-height: 40px;
+	text-align: center;
+	background-color: #1fc8a1;
+	color: #fff;
+	font-size: 1.6rem;
+	margin-bottom: 10px
+}

@@ -1,0 +1,243 @@
+{
+    "content": {
+        "data": {
+            "isLogin": false,
+            "page": {
+                "pageSize": 15,
+                "start": "15",
+                "result": [
+                    {
+                        "logger": {
+                            "traceCapable": true,
+                            "name": "com.lagou.entity.mobile.MobilePosition"
+                        },
+                        "positionId": 3604195,
+                        "positionName": "文案策划",
+                        "city": "上海",
+                        "createTime": "今天 16:14",
+                        "salary": "6k-8k",
+                        "companyId": 24995,
+                        "companyLogo": "//static.lagou.com/image1/M00/00/33/CgYXBlTUXI-AC08_AACIkHlny3Y866.jpg",
+                        "companyName": "泛微",
+                        "companyFullName": "上海泛微网络科技股份有限公司"
+                    },
+                    {
+                        "logger": {
+                            "traceCapable": true,
+                            "name": "com.lagou.entity.mobile.MobilePosition"
+                        },
+                        "positionId": 3604268,
+                        "positionName": "测试工程师",
+                        "city": "上海",
+                        "createTime": "今天 16:14",
+                        "salary": "6k-9k",
+                        "companyId": 24995,
+                        "companyLogo": "//static.lagou.com/image1/M00/00/33/CgYXBlTUXI-AC08_AACIkHlny3Y866.jpg",
+                        "companyName": "泛微",
+                        "companyFullName": "上海泛微网络科技股份有限公司"
+                    },
+                    {
+                        "logger": {
+                            "traceCapable": true,
+                            "name": "com.lagou.entity.mobile.MobilePosition"
+                        },
+                        "positionId": 3604202,
+                        "positionName": "资深广告销售",
+                        "city": "北京",
+                        "createTime": "今天 16:04",
+                        "salary": "12k-24k",
+                        "companyId": 520,
+                        "companyLogo": "//static.lagou.com/image1/M00/00/03/CgYXBlTUV_uAY85GAAAVtFKXIv8322.jpg",
+                        "companyName": "小米",
+                        "companyFullName": "北京小米科技有限责任公司"
+                    },
+                    {
+                        "logger": {
+                            "traceCapable": true,
+                            "name": "com.lagou.entity.mobile.MobilePosition"
+                        },
+                        "positionId": 3604266,
+                        "positionName": "高级广告客户经理",
+                        "city": "北京",
+                        "createTime": "今天 16:04",
+                        "salary": "12k-24k",
+                        "companyId": 520,
+                        "companyLogo": "//static.lagou.com/image1/M00/00/03/CgYXBlTUV_uAY85GAAAVtFKXIv8322.jpg",
+                        "companyName": "小米",
+                        "companyFullName": "北京小米科技有限责任公司"
+                    },
+                    {
+                        "logger": {
+                            "traceCapable": true,
+                            "name": "com.lagou.entity.mobile.MobilePosition"
+                        },
+                        "positionId": 3592597,
+                        "positionName": "资深测试工程师",
+                        "city": "北京",
+                        "createTime": "今天 16:03",
+                        "salary": "15k-25k",
+                        "companyId": 156716,
+                        "companyLogo": "//static.lagou.com/image2/M00/0B/38/CgotOVnd0QGAUa0uAAAWPEM2lLY817.jpg",
+                        "companyName": "昆仑健康保险",
+                        "companyFullName": "昆仑健康保险股份有限公司"
+                    },
+                    {
+                        "logger": {
+                            "traceCapable": true,
+                            "name": "com.lagou.entity.mobile.MobilePosition"
+                        },
+                        "positionId": 3591622,
+                        "positionName": "商务助理",
+                        "city": "上海",
+                        "createTime": "今天 16:03",
+                        "salary": "5k-8k",
+                        "companyId": 7030,
+                        "companyLogo": "//static.lagou.com/image2/M00/03/88/CgpzWlXuiV-AWUmuAABLQyCQhSA584.png",
+                        "companyName": "触宝科技",
+                        "companyFullName": "上海触乐信息科技有限公司"
+                    },
+                    {
+                        "logger": {
+                            "traceCapable": true,
+                            "name": "com.lagou.entity.mobile.MobilePosition"
+                        },
+                        "positionId": 3592294,
+                        "positionName": "SEO/SEM专员",
+                        "city": "深圳",
+                        "createTime": "今天 16:01",
+                        "salary": "5k-10k",
+                        "companyId": 47815,
+                        "companyLogo": "//static.lagou.com/image1/M00/00/7C/CgYXBlTUXcCAIbypAAB-r1TOe1c602.jpg",
+                        "companyName": "前海领投",
+                        "companyFullName": "深圳市前海领投互联网金融服务有限公司"
+                    },
+                    {
+                        "logger": {
+                            "traceCapable": true,
+                            "name": "com.lagou.entity.mobile.MobilePosition"
+                        },
+                        "positionId": 3603374,
+                        "positionName": "运营专员",
+                        "city": "银川",
+                        "createTime": "今天 16:00",
+                        "salary": "3k-4k",
+                        "companyId": 94167,
+                        "companyLogo": "//static.lagou.com/image2/M00/02/F8/CgqLKVXs-8-AfETRABFjnlkUfJk039.png?cc=0.3984102834947407",
+                        "companyName": "北京联动星传广告有限公司",
+                        "companyFullName": "北京联动星传广告有限公司"
+                    },
+                    {
+                        "logger": {
+                            "traceCapable": true,
+                            "name": "com.lagou.entity.mobile.MobilePosition"
+                        },
+                        "positionId": 3593656,
+                        "positionName": "测试工程师",
+                        "city": "上海",
+                        "createTime": "今天 15:57",
+                        "salary": "12k-22k",
+                        "companyId": 177018,
+                        "companyLogo": "//static.lagou.com/i/image/M00/01/D7/CgpFT1jQmQSAAMs5AAAJ0e8n-ZQ018.png",
+                        "companyName": "Qtools蔻兔",
+                        "companyFullName": "苏州蔻兔母婴用品有限公司"
+                    },
+                    {
+                        "logger": {
+                            "traceCapable": true,
+                            "name": "com.lagou.entity.mobile.MobilePosition"
+                        },
+                        "positionId": 3602137,
+                        "positionName": "管理培训生（上市公司+五险）",
+                        "city": "郑州",
+                        "createTime": "今天 15:57",
+                        "salary": "4k-6k",
+                        "companyId": 260904,
+                        "companyLogo": "//static.lagou.com/images/logo_default.png",
+                        "companyName": "环球优路教育",
+                        "companyFullName": "北京环球优路教育科技股份有限公司郑州分公司"
+                    },
+                    {
+                        "logger": {
+                            "traceCapable": true,
+                            "name": "com.lagou.entity.mobile.MobilePosition"
+                        },
+                        "positionId": 3593315,
+                        "positionName": "PHP开发工程师",
+                        "city": "上海",
+                        "createTime": "今天 15:55",
+                        "salary": "15k-20k",
+                        "companyId": 99267,
+                        "companyLogo": "//static.lagou.com/i/image/M00/5D/6E/CgpFT1mSo6qAGBWgAABeCzdnW2o36.jpeg",
+                        "companyName": "上海阅竞网络科技有限公司",
+                        "companyFullName": "上海阅竞网络科技有限公司"
+                    },
+                    {
+                        "logger": {
+                            "traceCapable": true,
+                            "name": "com.lagou.entity.mobile.MobilePosition"
+                        },
+                        "positionId": 3592817,
+                        "positionName": "直播运营",
+                        "city": "成都",
+                        "createTime": "今天 15:53",
+                        "salary": "4k-6k",
+                        "companyId": 210088,
+                        "companyLogo": "//static.lagou.com/i/image/M00/31/33/CgpEMlk009CAVf1OAAATMNlxPis071.png",
+                        "companyName": "一鹭科技",
+                        "companyFullName": "武汉一鹭网络科技有限公司"
+                    },
+                    {
+                        "logger": {
+                            "traceCapable": true,
+                            "name": "com.lagou.entity.mobile.MobilePosition"
+                        },
+                        "positionId": 3602990,
+                        "positionName": "用户运营",
+                        "city": "武汉",
+                        "createTime": "今天 15:52",
+                        "salary": "4k-6k",
+                        "companyId": 115706,
+                        "companyLogo": "//static.lagou.com/i/image/M00/67/5E/CgpEMlmfq-CAE4qkAAAcCLUwk3k272.png",
+                        "companyName": "忆年",
+                        "companyFullName": "武汉市追忆那年网络科技有限公司"
+                    },
+                    {
+                        "logger": {
+                            "traceCapable": true,
+                            "name": "com.lagou.entity.mobile.MobilePosition"
+                        },
+                        "positionId": 3594225,
+                        "positionName": "天猫店铺运营",
+                        "city": "北京",
+                        "createTime": "今天 15:48",
+                        "salary": "10k-15k",
+                        "companyId": 12965,
+                        "companyLogo": "//static.lagou.com/image1/M00/00/19/Cgo8PFTUWFOAaaXiAACnzoYYhfc884.gif",
+                        "companyName": "神州数码",
+                        "companyFullName": "神州数码（中国）有限公司"
+                    },
+                    {
+                        "logger": {
+                            "traceCapable": true,
+                            "name": "com.lagou.entity.mobile.MobilePosition"
+                        },
+                        "positionId": 3594755,
+                        "positionName": "项目助理-效率工程",
+                        "city": "北京",
+                        "createTime": "今天 15:47",
+                        "salary": "2k-3k",
+                        "companyId": 62,
+                        "companyLogo": "//static.lagou.com/image1/M00/00/01/Cgo8PFTUV_OAH8cPAACZoNxm1EI176.jpg",
+                        "companyName": "今日头条",
+                        "companyFullName": "北京字节跳动科技有限公司"
+                    }
+                ],
+                "totalCount": "261697",
+                "pageNo": 2
+            }
+        },
+        "rows": []
+    },
+    "message": "第2页数据,每页15条, 查询成功!",
+    "state": 1
+}

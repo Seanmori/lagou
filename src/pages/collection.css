@@ -1,0 +1,208 @@
+#header {
+	height: 45px;
+	line-height: 45px;
+	background-color: #00b38a;
+	color: #fff;
+	font-size: 1.8rem;
+	text-align: center;
+	position: relative
+}
+
+#header .left {
+	position: absolute;
+	left: 0;
+	top: 0;
+	height: 100%;
+	width: 40px
+}
+
+#header .left:active {
+	background-color: #f0f0f0
+}
+
+#header .left .corner {
+	width: 9px;
+	height: 20px;
+	margin: 13px auto 0 auto;
+	background: url(../images/icon2.png ) no-repeat -1.5px -20.5px;
+	background-size: 250px 250px;
+	display: inline-block
+}
+
+.list .item {
+	padding: 14px;
+	border-bottom: 1px solid #e8e8e8;
+	position: relative
+}
+
+.list .item:after {
+	content: ".";
+	display: block;
+	height: 0;
+	clear: both;
+	visibility: hidden
+}
+
+.list .item:active {
+	background-color: #f0f0f0
+}
+
+.list .item-logo {
+	display: inline-block;
+	float: left;
+	width: 60px;
+	height: 60px
+}
+
+.list .item-desc {
+	margin-left: 70px;
+	height: 62px;
+	color: #333
+}
+
+.list .item-desc:after {
+	content: ".";
+	display: block;
+	height: 0;
+	clear: both;
+	visibility: hidden
+}
+
+.list .item-title {
+	font-size: 1.6rem;
+	margin-bottom: 6px;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap
+}
+
+.list .item-info {
+	margin-bottom: 6px;
+	width: 100%;
+	height: 15px;
+	line-height: 15px
+}
+
+.list .item-info:after {
+	content: ".";
+	display: block;
+	height: 0;
+	clear: both;
+	visibility: hidden
+}
+
+.list .item-pos {
+	width: 90%;
+	font-size: 1.2rem;
+	float: left;
+	display: inline-block;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap
+}
+
+.list .item-salary {
+	font-size: 1.6rem;
+	color: #00b38a;
+	float: right
+}
+
+.list .item-time {
+	font-size: 1rem;
+	color: #888
+}
+
+.list .desc-left {
+	position: relative;
+	float: left;
+	width: 70%
+}
+
+.list .desc-right {
+	position: relative;
+	float: right;
+	height: 100%;
+	width: 27%
+}
+
+.list .desc-right .icon {
+	width: 20px;
+	height: 20px;
+	margin: 5px auto 18px auto;
+	background: url(/images/mobile/asset/common/img/icon.png ) no-repeat -150px -8px;
+	background-size: 250px 250px
+}
+
+.list .desc-right .not {
+	background: url(/images/mobile/asset/common/img/icon.png ) no-repeat -182px -8px;
+	background-size: 250px 250px
+}
+
+.list .desc-right .salary {
+	width: 100%;
+	text-align: center;
+	font-size: 1.6rem;
+	color: #00b38a
+}
+
+.list .list-more {
+	height: 50px;
+	line-height: 50px;
+	text-align: center;
+	font-size: 1.5rem;
+	background-color: #fafafa
+}
+
+.list .list-more:active {
+	background-color: #f0f0f0
+}
+
+.list .list-empty {
+	text-align: center;
+	font-size: 1.5rem;
+	margin-top: 30px;
+	color: #c2cfcc !important
+}
+
+.list .list-empty:after {
+	content: ".";
+	display: block;
+	height: 0;
+	clear: both;
+	visibility: hidden
+}
+
+.list .list-empty .icon,.list .list-empty .text {
+	display: inline-block;
+	vertical-align: middle
+}
+
+.list .list-empty .icon {
+	width: 20px;
+	height: 20px;
+	background: url(/images/mobile/asset/common/img/icon.png ) no-repeat -70px -18.5px;
+	background-size: 250px 250px
+}
+
+.list .dback {
+	background-color: #f5f5f5;
+	opacity: .6;
+	z-index: 10
+}
+
+.list .dtext {
+	z-index: 20;
+	color: #222;
+	text-align: center;
+	font-size: 1.4rem
+}
+
+.list .delivered {
+	position: absolute;
+	left: 0;
+	bottom: 0;
+	display: inline-block;
+	width: 60px;
+	height: 25px;
+	line-height: 25px
+}
